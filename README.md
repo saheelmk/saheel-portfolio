@@ -1,20 +1,31 @@
-# akshit_madan
+# 🌟 Saheel's Flutter Portfolio
 
-A new Flutter project.
+A modern, responsive **portfolio website** built using Flutter Web.  
+This project reflects my journey, skills, and projects as a Flutter developer.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🔗 Live Demo
 
-A few resources to get you started if this is your first Flutter project:
+👉 [View the Live Site](https://your-deployment-link.com)  
+_(Replace with your actual hosted URL when ready)_
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
 
+| 💻 Desktop | 📱 Mobile |
+|-----------|----------|
+| ![Desktop](screenshots/porfolio-web.png) | ![Mobile](screenshots/mobile.png) |
 
+> Place your screenshots in a `screenshots/` folder inside your project directory.
+
+---
+
+## 🚀 Getting Started
+
+To run this project locally on your browser:
+
+### 🔧 Run in Chrome
+```bash
 flutter run -d chrome --web-renderer html
-flutter build web --web-renderer html --release --no-tree-shake-icons
